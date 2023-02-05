@@ -1,0 +1,39 @@
+body {
+    font-family: sans-serif;
+}
+nav a {
+background-color:rgb(226, 183, 43);
+border-radius: 10px;
+border:solid 2px blueviolet ;
+}
+header a {
+background-color:rgb(226, 183, 43);
+padding: 10px;
+}
+b {
+background-color:rgb(43, 116, 226);
+}
+h1 i {
+background-color:rgb(22, 143, 43);
+}
+h2 {
+background-color: rgb(92, 43, 226);
+}   
+h1 i {
+    background-color: coral;
+    border: darkturquoise;
+}
+footer{
+ border: darkred solid 3px ;
+    border-radius: 10px;
+    text-decoration:aqua;
+    padding: 10px;
+}
+p {
+    background-color: rgb(16, 204, 218);
+    border: rgb(101, 10, 219) solid 1px;
+    border-radius: 10px;
+}
+h2 {
+    border: cadetblue solid 1px;
+    border-radius: 10px;
